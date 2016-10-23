@@ -1,0 +1,7 @@
+[package]
+name = "lan-scan"
+version = "0.1.0"
+authors = ["Jordan West <jordwest@gmail.com>"]
+
+[dependencies]
+pcap = "0.5.7"
